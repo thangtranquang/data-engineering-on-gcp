@@ -1,5 +1,5 @@
 # DATA ENGINEERING ON GOOGLE CLOUD PLATFORM
-
+https://cloud.google.com/training/courses/data-engineering
 ## Introduction
 This course provides participants a hands on introduction to designing and building data processing systems on Google Cloud
 Platform. Through a combination of presentations, demos and hands-on Labs, participants will learn how to design data processing systems, build
